@@ -1,4 +1,3 @@
 -
-telector: user.telector_show()
-telector show: user.telector_show()
-telector hide: user.telector_hide()
+show labels: user.telector_show()
+hide labels: user.telector_hide()

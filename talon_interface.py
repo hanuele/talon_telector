@@ -401,6 +401,7 @@ class TelectorActions:
             rect2.x + rect2.width+2,
             rect2.y + rect2.height / 2
         )
+        time.sleep(0.1)
         actions.mouse_release(0)
 
         actions.mouse_move(
